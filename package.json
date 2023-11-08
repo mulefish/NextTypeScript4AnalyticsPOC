@@ -1,0 +1,26 @@
+{
+  "name": "kittycat",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@lululemon/ecom-pattern-library": "5.24.10",
+    "@lululemon/mwa-analytics": "4.1.10",
+    "next": "12.2.3",
+    "next-transpile-modules": "^10.0.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@lululemon/mwa-webpack": "7.1.12",
+    "@types/react": "18.2.37",
+    "react": "18.2.0",
+    "typescript": "^4.9.3",
+    "webpack": "^5.89.0"
+  }
+}
