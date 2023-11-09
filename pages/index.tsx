@@ -5,7 +5,10 @@ import React from 'react' ;
 export default function Home() {
   return (
     <main>
-      Hello! This is for typescript 4. 
+      Hello! This is for typescript 4.
+      <br></br>
+      TS5 will introduce breaking changes. Good luck!
+
     </main>
   )
 }
