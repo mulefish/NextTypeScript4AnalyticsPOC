@@ -8,7 +8,8 @@ export default function Home() {
       Hello! This is for typescript 4.
       <br></br>
       TS5 will introduce breaking changes. Good luck!
-
+      <br></br>
+      DCP_NextJs_TypeScript4_MwaAnalytics_ProjectBlank  
     </main>
   )
 }
